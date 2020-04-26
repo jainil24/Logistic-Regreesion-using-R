@@ -1,1 +1,1 @@
-# Logistic-Regreesion-using-R
+# Logistic-Regression-using-R
